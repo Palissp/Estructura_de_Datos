@@ -11,7 +11,7 @@
  * Grupo 10 
  * Github:https://github.com/Palissp/Estructura_de_Datos 
  * Version 1
- * NRC: 7167
+ * NRC: 4683
  * Nombre de la materia: Estructura de Datos
  ***********************************************************************/
 
